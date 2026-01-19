@@ -1,0 +1,1 @@
+Simple RAG to provide remedies for patients.
